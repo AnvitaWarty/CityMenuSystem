@@ -1,0 +1,2 @@
+# CityMenuSystem
+This program uses an adjacency list implemented graph data structure. The program reads information from two files: city.dat and road.dat. An initial graph will be generated using the information extracted from the mentioned files. The user can query city information by providing a city code. They  can insert a road by entering two city codes and a distance. They can also remove an existing road by entering two city codes.   
